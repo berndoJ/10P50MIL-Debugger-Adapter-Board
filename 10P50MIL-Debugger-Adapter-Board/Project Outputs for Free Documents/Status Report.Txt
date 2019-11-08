@@ -1,0 +1,13 @@
+Output: 10P50MIL-Debugger-Adapter-Board-Drill
+Type  : NC Drill
+From  : PCB Document [10P50MIL-Debugger-Adapter-Board.PcbDoc]
+   Generated File[10P50MIL-Debugger-Adapter-Board-Plated.TXT]
+   Generated File[10P50MIL-Debugger-Adapter-Board.DRL]
+   Generated File[10P50MIL-Debugger-Adapter-Board.LDP]
+   Generated File[10P50MIL-Debugger-Adapter-Board.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 21:14:59 On 08.11.2019
